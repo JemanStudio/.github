@@ -40,6 +40,15 @@ More on the way.
 - **One job, done well.** Each app solves one problem well, then stays out of your way.
 - **Honest pricing.** Free to download and use. Pro always comes with a one-time purchase option.
 
+## Feedback
+
+Found a bug or have an idea? Open an issue:
+
+- [Netlink feedback](https://github.com/JemanStudio/netlink-feedback/issues/new/choose)
+- [Nekot feedback](https://github.com/JemanStudio/nekot-feedback/issues/new/choose)
+
+Writing about Jeman? Logos, app icons and screenshots are in [JemanStudio/brand](https://github.com/JemanStudio/brand).
+
 ## Get in touch
 
 - Help with an app: [jeman.net/support](https://jeman.net/support/)
