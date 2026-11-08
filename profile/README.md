@@ -25,9 +25,9 @@
   <tr>
     <td width="72" align="center"><a href="https://jeman.net/nekot/"><img src="https://raw.githubusercontent.com/JemanStudio/.github/main/profile/assets/nekot.png" width="56" height="56" alt="Nekot"></a></td>
     <td>
-      <b><a href="https://jeman.net/nekot/">Nekot</a></b> · iOS 17 or later<br>
-      Claude Code and Codex usage windows, reset countdowns and limit alerts on your iPhone.<br>
-      <a href="https://apps.apple.com/app/id6805865049">App Store</a> · <a href="https://jeman.net/nekot/support/">Help</a>
+      <b><a href="https://jeman.net/nekot/">Nekot</a></b> · iOS 17 or later · macOS 14 or later<br>
+      Claude Code and Codex usage windows, reset countdowns and limit alerts on your iPhone, plus local usage and estimated cost in your Mac menu bar.<br>
+      <a href="https://apps.apple.com/app/id6805865049">App Store</a> · <a href="https://apps.apple.com/app/id6805865049">Mac App Store</a> · <a href="https://jeman.net/nekot/support/">Help</a>
     </td>
   </tr>
 </table>
