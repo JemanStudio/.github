@@ -8,7 +8,7 @@
 
 <p align="center">
   A small independent studio. We make a few things and make them well.<br>
-  <a href="https://jeman.net">Website</a> · <a href="https://jeman.net/support/">Support</a> · <a href="https://x.com/jemanstudio">X</a> · <a href="https://www.youtube.com/@JemanStudio">YouTube</a> · <a href="https://www.reddit.com/user/JemanStudio/">Reddit</a> · <a href="mailto:support@jeman.net">support@jeman.net</a>
+  <a href="https://jeman.net">Website</a> · <a href="https://jeman.net/support/">Support</a> · <a href="https://x.com/jemanstudio">X</a> · <a href="https://www.youtube.com/@JemanStudio">YouTube</a> · <a href="mailto:support@jeman.net">support@jeman.net</a>
 </p>
 
 ## Apps
