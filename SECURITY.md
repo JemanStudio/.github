@@ -19,6 +19,7 @@ A real person will reply, usually within 2 business days, and let you know how w
 ## Scope
 
 - Netlink for Mac
+- Netlink for iPhone and iPad
 - Nekot for iPhone
 - Nekot for Mac
 - jeman.net
