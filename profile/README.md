@@ -17,9 +17,9 @@
   <tr>
     <td width="72" align="center"><a href="https://jeman.net/netlink/"><img src="https://raw.githubusercontent.com/JemanStudio/.github/main/profile/assets/netlink.png" width="56" height="56" alt="Netlink"></a></td>
     <td>
-      <b><a href="https://jeman.net/netlink/">Netlink</a></b> · macOS 14 or later<br>
+      <b><a href="https://jeman.net/netlink/">Netlink</a></b> · iOS 17 or later · macOS 14 or later<br>
       Know when your exit IP changes. Network score, VPN and DNS checks, right in your menu bar.<br>
-      <a href="https://apps.apple.com/app/id6770569501">Mac App Store</a> · <a href="https://jeman.net/netlink/support/">Help</a>
+      <a href="https://apps.apple.com/app/id6770569501">App Store</a> · <a href="https://apps.apple.com/app/id6770569501">Mac App Store</a> · <a href="https://jeman.net/netlink/support/">Help</a>
     </td>
   </tr>
   <tr>
